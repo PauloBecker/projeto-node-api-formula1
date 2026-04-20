@@ -61,9 +61,9 @@ $ npm install
 
 ## Author
 
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
+| [<img src="https://avatars.githubusercontent.com/u/48955680?v=4"><br><sub>Paulo Becker</sub>](https://github.com/PauloBecker) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                            [Linkedin](www.linkedin.com/in/felipe-aguiar-exe/)                                             |
+|                                            [Linkedin](https://www.linkedin.com/in/paulo-becker-89550177/)                                             |
 
 # Credits
 
