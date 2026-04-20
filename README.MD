@@ -61,7 +61,7 @@ $ npm install
 
 ## Author
 
-| [<img src="https://avatars.githubusercontent.com/u/48955680?v=4" width: 200px height: 200px><br><sub>Paulo Becker</sub>](https://github.com/PauloBecker) |
+| [<img src="https://avatars.githubusercontent.com/u/48955680?v=4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"><br><sub>Paulo Becker</sub>](https://github.com/PauloBecker) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                            [Linkedin](https://www.linkedin.com/in/paulo-becker-89550177/)                                             |
 
