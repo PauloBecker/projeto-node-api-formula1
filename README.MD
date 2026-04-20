@@ -50,10 +50,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/felipeAguiarCode/node-blue-boilerplate
+$ git clone https://github.com/PauloBecker/projeto-node-api-formula1
 
 # Go into the repository
-$ cd node-blue-boilerplate
+$ cd projeto-node-api-formula1
 
 # Install dependencies
 $ npm install
@@ -61,7 +61,7 @@ $ npm install
 
 ## Author
 
-| [<img src="https://avatars.githubusercontent.com/u/48955680?v=4"><br><sub>Paulo Becker</sub>](https://github.com/PauloBecker) |
+| [<img src="https://avatars.githubusercontent.com/u/48955680?v=4" width: 200px height: 200px><br><sub>Paulo Becker</sub>](https://github.com/PauloBecker) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                            [Linkedin](https://www.linkedin.com/in/paulo-becker-89550177/)                                             |
 
